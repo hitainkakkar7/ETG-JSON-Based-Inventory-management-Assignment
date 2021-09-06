@@ -1,12 +1,11 @@
 # ETG-JSON-Based-Inventory-management-Assignment
-# ETG-JSON-Based-Inventory-management-Assignment
 
 
 This is an json based inventory management system built using python(json) and created on google colab.
 I have developed this project as a part of hands on project which i recieved due to my "Skill India Python for ML/AI" Internship from #EliteTechnoGroups.
 
 Thank you [Elite Techno Groups](https://www.elitetechnogroups.com/) for this internship opportunity and looking to learn more such knowledgeable stuff from you and the internship Guides.
-Thank you [Ashish Jangra](https://github.com/AshishJangra27/) (Mentor) for helping me make this project from scratch.
+Thank you [Ashish Jangra](https://github.com/AshishJangra27/) (Mentor) for guiding me make this project from scratch.
 
 -----
 ## About the Repository
@@ -47,25 +46,20 @@ Inventory Management System Assignment we are supposed to convert dictionary dat
 4. Add Items to Inventory
 
 ## Files Description
-### Add_products_IMS.ipynb : 
+### Add_New_Product.ipynb : 
 file is used by admin to add products in inventory using python program in which one unique id called as product id is signed to every 
 product which is used to access all atribute of product for updating values
-### Purchase.ipynb :
+### Purchase_Product.ipynb :
 it is python program used to Purchase product from inventory in which you can buy products and get bill after that the inventory is updated and sales are recorded in sales.json file
 ### record.json : 
 it is inventory record file which contain products details and after every transaction it gets updated
 ### sales.json : 
 it is record file of sales made in day which is updated after every transaction complition.
+### Sales Json.ipynb :
+Creates Sales.json file to store all purchased product data and returns the amount along with it.
 
 ## About JSON:
 
 JSON (JavaScript Object Notation) is an open standard record configuration and information trade design that utilizes intelligible text to store and communicate information objects comprising of characteristic worth combines and exhibits (or other serializable qualities). It is a typical information design with an assorted scope of usefulness in information exchange including correspondence of web applications with workers.
 JSON is a language-autonomous information design. It was gotten from JavaScript, however numerous cutting edge programming dialects incorporate code to produce and parse JSON-design information. JSON filenames utilize the .json extension.
 
-Firstly, we can take the data from input and give it to the dictionary, in my case it is named as resource.
-
-Secondly, we import json and then we try to dump it into the json format,
-if the file already does not exist it creates a file and fill it in with the data.
-But, here the .json file contains data in str format.
-
-We can also convert this .json file into dictionary format again using load.
