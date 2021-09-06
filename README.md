@@ -65,6 +65,8 @@ JSON is a language-autonomous information design. It was gotten from JavaScript,
 
 ## Who am I? (About Me)
 
+My name is Hitain Kakkar. I am a third year undergraduate, pursing B.Tech in Computer Science Engineering.
+
 I am a competitive coder, 4 star coder at codechef, Pupil at codeforces and 5 star at Hackerrank.
 I am an ICPC regionalist Amritapuri Region. 
 I have also received good ranks in many coding contests  such as [Rank 50 in codechef July Challenge](https://www.codechef.com/rankings/JULY21B?order=asc&search=hitain_kakkar&sortBy=rank), [Rank 52 in codechef Feburary Challenge](https://www.codechef.com/rankings/FEB21B?order=asc&search=hitain_kakkar&sortBy=rank)
